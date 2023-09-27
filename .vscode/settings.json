@@ -1,0 +1,5 @@
+{
+    "code-runner.executorMap": {
+        "typescript": "pnpm ts-node --files --transpile-only",
+    }
+}
