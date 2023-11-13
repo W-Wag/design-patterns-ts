@@ -1,0 +1,6 @@
+Rodrigo Alves	30	606.31.450-30
+Carlos Silva	25	123.456.789-00
+Ana Santos	40	987.654.321-11
+João Pereira	35	456.789.123-22
+Maria Oliveira	28	111.222.333-44
+Pedro Souza	50	555.666.777-88
